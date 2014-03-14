@@ -1,0 +1,3 @@
+CONpetence
+==========
+heres a readme
